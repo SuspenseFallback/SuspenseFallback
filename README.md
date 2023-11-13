@@ -1,9 +1,40 @@
 # Welcome!
 
-- I’m @SuspenseFallback
-- Currently working on a chess app
-- Specializes in Node.js and React
-- Reach me by my email!
+## About me
+
+Hi, my name is Krithin Jay Pakshootra, or @SuspenseFallback! I am a 13 year old in Year 9 studying in Singapore.
+
+## My languages
+
+**Main languages**
+
+- HTML
+- CSS
+- Javascript
+- Python
+
+**Languages I'm OK in**
+
+- Java
+- C#
+- Dart
+
+**Frameworks**
+
+- React
+- Next.js
+- Vue
+- Nuxt.js
+- Flutter
+- React Native (Expo)
+- Electron
+
+**Tools**
+
+- Firebase
+- Supabase
+- Git/Github
+- MongoDB
 
 ![SuspenseFallback's GitHub stats](https://github-readme-stats.vercel.app/api?username=suspensefallback&show_icons=true&theme=radical)
 
