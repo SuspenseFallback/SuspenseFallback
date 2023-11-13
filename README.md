@@ -56,6 +56,7 @@ Hi, my name is Krithin Jay Pakshootra, or @SuspenseFallback! I am a 13 year old 
 ## Stats
 
 ![SuspenseFallback's GitHub stats](https://github-readme-stats.vercel.app/api?username=suspensefallback&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suspensefallbackk&show_icons=true&theme=radical)]
 
 <!---
 SuspenseFallback/SuspenseFallback is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
