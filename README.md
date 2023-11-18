@@ -55,7 +55,7 @@ Hi, my name is Krithin Jay Pakshootra, or @SuspenseFallback! I am a 13 year old 
 
 - Flashcard App
 
-An app I made to use to study flashcards.
+An app I made to use to study flashcards. It uses a spaced repetition algorithm to sort the cards in a way that promotes the most memory.
 
 - Chess App
 - Math Revision App
