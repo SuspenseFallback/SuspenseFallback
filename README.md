@@ -55,9 +55,12 @@ Hi, my name is Krithin Jay Pakshootra, or @SuspenseFallback! I am a 13 year old 
 
 - Flashcard App
 
-An app I made to use to study flashcards. It uses a spaced repetition algorithm to sort the cards in a way that promotes the most memory.
+A react app I made to use to study flashcards. It uses a spaced repetition algorithm to sort the cards in a way that promotes the most memory.
 
 - Chess App
+
+Another react app I made to play chess. It uses sockets to have real-time chess with timers. It also has a backend for authentication, database, etc. You can also play puzzles on there since I used the Lichess Puzzle Database, which is CC.
+
 - Math Revision App
 
 ## Stats
