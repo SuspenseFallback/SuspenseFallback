@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, my name is Krithin Jay Pakshootra, or @SuspenseFallback! I am a 13 year old in Year 9 studying in Singapore.
+Hi, my name is Krithin Jay Pakshootra, or @SuspenseFallback! I am a 13 year old in Year 9 studying in Singapore. I love tech-related stuff.
 
 ## My languages
 
