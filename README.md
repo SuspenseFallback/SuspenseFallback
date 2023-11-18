@@ -49,9 +49,13 @@ Hi, my name is Krithin Jay Pakshootra, or @SuspenseFallback! I am a 13 year old 
 
 > Greenstand is a U.S.-based 501(c)(3) nonprofit organization developing open-source technology to address climate change and alleviate poverty through digitizing environmental goods and services. We are made up of about 350 contributors across the globe. Our Treetracker app verifies and tracks individual trees, thus creating transparency in the reforestation sphere. Organizations and donors can locate individual trees and trade their ecological impact. By facilitating ownership of trees and their ecological services, Greenstand allows for tree-growing organizations to stay accountable. 
 
-
-
 *More at https://greenstand.org/*
+
+### Personal Projects
+
+- Flashcard App
+- Chess App
+- Math Revision App
 
 ## Stats
 
