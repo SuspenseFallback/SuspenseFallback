@@ -54,6 +54,9 @@ Hi, my name is Krithin Jay Pakshootra, or @SuspenseFallback! I am a 13 year old 
 ### Personal Projects
 
 - Flashcard App
+
+An app I made to use to study flashcards.
+
 - Chess App
 - Math Revision App
 
