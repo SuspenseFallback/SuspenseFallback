@@ -12,12 +12,12 @@ Hi, my name is Krithin Jay Pakshootra, or @SuspenseFallback! I am a 13 year old 
 - CSS
 - Javascript
 - Python
+- Dart
 
 **Languages I'm OK in**
 
 - Java
 - C#
-- Dart
 
 **Frameworks**
 
