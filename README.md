@@ -2,17 +2,16 @@
 
 ## About me
 
-Hi, my name is Krithin Jay Pakshootra, or @SuspenseFallback! I am a 13 year old in Year 9 studying in Singapore. I love tech-related stuff.
+Hi! I am a high-school student studying in Singapore. I love anything to do with tech.
 
-## My languages
+## Programming languages
 
-- HTML
-- CSS
-- Javascript
 - Python
-- Dart
+- Flutter
+- HTML, CSS, JavaScript
+- Java
 
-**Frameworks**
+**I use frameworks such as:**
 
 - React
 - Next.js
@@ -22,7 +21,7 @@ Hi, my name is Krithin Jay Pakshootra, or @SuspenseFallback! I am a 13 year old 
 - React Native (Expo)
 - Electron
 
-**Tools**
+**I'm familiar with tools like:**
 
 - Firebase
 - Supabase
@@ -30,6 +29,14 @@ Hi, my name is Krithin Jay Pakshootra, or @SuspenseFallback! I am a 13 year old 
 - MongoDB
 
 ## Current Projects
+
+### A Novel Architecture to Predict Dose Distributions for Oropharyngeal Cancer Patients undergoing Radiation Therapy
+
+According to the WHO, there were 54 million cancer patients in 2022, and 20 million new cancer patients every year. 74% of these patients undergo radiation therapy due to its effectiveness and ease. However, creating dose distributions for radiation therapy is a time-taking, arduous task that can take up to 4 hours. Combine this with the fact that worldwide, the ratio of dosimetrists (the doctors who create dose distributions for radiation therapy) to cancer patients is 1:11,000. This means waiting times for treatment worldwide are shockingly high, being 63 days on average from diagnosis to treatment in England.
+
+To solve this problem, we built a novel architecture that combines features from current architectures that can speed up the dose distribution creation process by up to 36,000x while maintaining quality and accuracy.
+
+- Won Gold Poster Award at ScienceCastle SG 2025
 
 ### Greenstand
 
@@ -52,9 +59,7 @@ A react app I made to use to study flashcards. It uses a spaced repetition algor
 
 - Chess App
 
-Another react app I made to play chess. It uses sockets to have real-time chess with timers. It also has a backend for authentication, database, etc. You can also play puzzles on there since I used the Lichess Puzzle Database, which is CC.
-
-- Math Revision App
+Another react app I made to play chess. It uses sockets to have real-time chess with timers. It also has a backend for authentication, database, etc. You can also play puzzles on there since I used the Lichess Puzzle Database, which is CC0.
 
 ## Stats
 
