@@ -1,17 +1,23 @@
 # Welcome!
 
-## About me
-
-Hi! I am a high-school student studying in Singapore. I love anything to do with tech.
-
 ## Programming languages
 
 - Python
-- Flutter
-- HTML, CSS, JavaScript
+- Dart
 - Java
+- Javascript
 
 **I use frameworks such as:**
+
+- PyTorch
+- TensorFlow
+- Keras
+- Numpy
+- Pandas
+- SciPy
+- Scikit-learn
+
+and in web development:
 
 - React
 - Next.js
